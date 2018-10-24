@@ -1,0 +1,488 @@
+{
+    "-1": {
+        "name": "undefined"
+    },
+    "2001": {
+        "name": "partyfriend",
+        "images_num": 57,
+        "bbox_num": 57,
+        "tp": 52
+    },
+    "2002": {
+        "name": "梨花寨",
+        "images_num": 84,
+        "bbox_num": 84,
+        "tp": 31
+    },
+    "2003": {
+        "name": "梨花寨过桥米线",
+        "images_num": 94,
+        "bbox_num": 94,
+        "tp": 43
+    },
+    "2004": {
+        "name": "1995来自米线",
+        "images_num": 64,
+        "bbox_num": 64,
+        "tp": 45
+    },
+    "2005": {
+        "name": "韩客菜",
+        "images_num": 87,
+        "bbox_num": 87,
+        "tp": 36
+    },
+    "2006": {
+        "name": "农家酸菜鱼",
+        "images_num": 66,
+        "bbox_num": 66,
+        "tp": 63
+    },
+    "2007": {
+        "name": "呼呼面",
+        "images_num": 116,
+        "bbox_num": 116,
+        "tp": 57
+    },
+    "2008": {
+        "name": "老北厨",
+        "images_num": 124,
+        "bbox_num": 124,
+        "tp": 42
+    },
+    "2009": {
+        "name": "虾蟹煲",
+        "images_num": 80,
+        "bbox_num": 80,
+        "tp": 45
+    },
+    "2010": {
+        "name": "百味传奇",
+        "images_num": 114,
+        "bbox_num": 114,
+        "tp": 41
+    },
+    "2011": {
+        "name": "五谷鱼坊",
+        "images_num": 102,
+        "bbox_num": 102,
+        "tp": 42
+    },
+    "2012": {
+        "name": "来捡盛出",
+        "images_num": 86,
+        "bbox_num": 86,
+        "tp": 29
+    },
+    "2013": {
+        "name": "辣食代（来捡盛出旁）",
+        "images_num": 120,
+        "bbox_num": 120,
+        "tp": 85
+    },
+    "2014": {
+        "name": "鹿鼎记",
+        "images_num": 87,
+        "bbox_num": 87,
+        "tp": 20
+    },
+    "2015": {
+        "name": "银田（鹿鼎记旁）",
+        "images_num": 114,
+        "bbox_num": 114,
+        "tp": 50
+    },
+    "2016": {
+        "name": "辣食代（老巴爷旁）",
+        "images_num": 153,
+        "bbox_num": 153,
+        "tp": 52
+    },
+    "2017": {
+        "name": "老巴爷",
+        "images_num": 60,
+        "bbox_num": 60,
+        "tp": 49
+    },
+    "2018": {
+        "name": "银田（香芋仙旁）",
+        "images_num": 84,
+        "bbox_num": 84,
+        "tp": 56
+    },
+    "2019": {
+        "name": "香芋仙",
+        "images_num": 158,
+        "bbox_num": 158,
+        "tp": 45
+    },
+    "2020": {
+        "name": "泰芒了",
+        "images_num": 59,
+        "bbox_num": 59,
+        "tp": 47
+    },
+    "2021": {
+        "name": "黄师傅大江南北好面粉",
+        "images_num": 48,
+        "bbox_num": 48,
+        "tp": 45
+    },
+    "2022": {
+        "name": "味稻",
+        "images_num": 83,
+        "bbox_num": 83,
+        "tp": 39
+    },
+    "2023": {
+        "name": "领鲜时代",
+        "images_num": 130,
+        "bbox_num": 130,
+        "tp": 36
+    },
+    "2024": {
+        "name": "justfruit",
+        "images_num": 117,
+        "bbox_num": 117,
+        "tp": 56
+    },
+    "2025": {
+        "name": "概念新茶",
+        "images_num": 72,
+        "bbox_num": 72,
+        "tp": 31
+    },
+    "2026": {
+        "name": "兰州牛肉",
+        "images_num": 151,
+        "bbox_num": 151,
+        "tp": 129
+    },
+    "2027": {
+        "name": "五谷汇鲜榨果汁",
+        "images_num": 90,
+        "bbox_num": 90,
+        "tp": 49
+    },
+    "2028": {
+        "name": "鱼小萌（我们是纯净活水健康鱼）",
+        "images_num": 92,
+        "bbox_num": 92,
+        "tp": 37
+    },
+    "2029": {
+        "name": "鱼小萌（金汤鱼泡饭）",
+        "images_num": 102,
+        "bbox_num": 102,
+        "tp": 29
+    },
+    "2030": {
+        "name": "五谷汇鲜果茶",
+        "images_num": 60,
+        "bbox_num": 60,
+        "tp": 55
+    },
+    "2031": {
+        "name": "橘果子",
+        "images_num": 45,
+        "bbox_num": 45,
+        "tp": 42
+    },
+    "2032": {
+        "name": "缤果",
+        "images_num": 54,
+        "bbox_num": 54,
+        "tp": 47
+    },
+    "2033": {
+        "name": "锅香麻辣祺祺",
+        "images_num": 45,
+        "bbox_num": 45,
+        "tp": 44
+    },
+    "2034": {
+        "name": "黄师傅",
+        "images_num": 71,
+        "bbox_num": 71,
+        "tp": 51
+    },
+    "2035": {
+        "name": "香港深井",
+        "images_num": 44,
+        "bbox_num": 44,
+        "tp": 42
+    },
+    "2036": {
+        "name": "钦记木瓜牛奶",
+        "images_num": 80,
+        "bbox_num": 80,
+        "tp": 45
+    },
+    "2037": {
+        "name": "砂锅粥",
+        "images_num": 129,
+        "bbox_num": 129,
+        "tp": 53
+    },
+    "2038": {
+        "name": "辣B小生",
+        "images_num": 71,
+        "bbox_num": 71,
+        "tp": 19
+    },
+    "2039": {
+        "name": "咕噜咕噜正面（有显示器）",
+        "images_num": 45,
+        "bbox_num": 45,
+        "tp": 29
+    },
+    "2040": {
+        "name": "咕噜咕噜侧面",
+        "images_num": 81,
+        "bbox_num": 81,
+        "tp": 37
+    },
+    "2041": {
+        "name": "九宫煮",
+        "images_num": 69,
+        "bbox_num": 69,
+        "tp": 24
+    },
+    "2042": {
+        "name": "大卡司",
+        "images_num": 56,
+        "bbox_num": 56,
+        "tp": 31
+    },
+    "2043": {
+        "name": "茶咖师",
+        "images_num": 78,
+        "bbox_num": 78,
+        "tp": 44
+    },
+    "2044": {
+        "name": "teakopoi",
+        "images_num": 107,
+        "bbox_num": 107,
+        "tp": 44
+    },
+    "2045": {
+        "name": "铁板烧",
+        "images_num": 46,
+        "bbox_num": 46,
+        "tp": 31
+    },
+    "2046": {
+        "name": "板京神",
+        "images_num": 76,
+        "bbox_num": 76,
+        "tp": 18
+    },
+    "2047": {
+        "name": "juicy buddy",
+        "images_num": 45,
+        "bbox_num": 45,
+        "tp": 43
+    },
+    "2048": {
+        "name": "coco",
+        "images_num": 77,
+        "bbox_num": 77,
+        "tp": 48
+    },
+    "2049": {
+        "name": "天天饮品",
+        "images_num": 45,
+        "bbox_num": 45,
+        "tp": 44
+    },
+    "2050": {
+        "name": "台湾卤肉饭",
+        "images_num": 75,
+        "bbox_num": 75,
+        "tp": 41
+    },
+    "2051": {
+        "name": "一点点",
+        "images_num": 129,
+        "bbox_num": 129,
+        "tp": 9
+    },
+    "2052": {
+        "name": "赖小帆",
+        "images_num": 110,
+        "bbox_num": 110,
+        "tp": 63
+    },
+    "2053": {
+        "name": "锦桂螺",
+        "images_num": 87,
+        "bbox_num": 87,
+        "tp": 50
+    },
+    "2054": {
+        "name": "乡聚",
+        "images_num": 125,
+        "bbox_num": 125,
+        "tp": 66
+    },
+    "2055": {
+        "name": "酸菜鱼",
+        "images_num": 96,
+        "bbox_num": 96,
+        "tp": 78
+    },
+    "3001": {
+        "name": "McDonald's"
+    },
+    "3002": {
+        "name": "麦当劳"
+    },
+    "3003": {
+        "name": "ABLE JEANS"
+    },
+    "3004": {
+        "name": "内优堂"
+    },
+    "3005": {
+        "name": "CHENIM 晶石灵"
+    },
+    "3006": {
+        "name": "STBALIS"
+    },
+    "3007": {
+        "name": "VANS"
+    },
+    "3008": {
+        "name": "回转寿司LeisureRestaurant"
+    },
+    "3009": {
+        "name": "食尚引"
+    },
+    "3010": {
+        "name": "北梨苑"
+    },
+    "3011": {
+        "name": "new balance"
+    },
+    "3012": {
+        "name": "CONVERSE"
+    },
+    "3013": {
+        "name": "BURGER KING 汉堡王"
+    },
+    "3014": {
+        "name": "PAPA JOHNS"
+    },
+    "3015": {
+        "name": "ONLY"
+    },
+    "3016": {
+        "name": "JACK JONES"
+    },
+    "3017": {
+        "name": "PEACEBIRD"
+    },
+    "3018": {
+        "name": "HIMuomo"
+    },
+    "3019": {
+        "name": "ALT FINE ISM"
+    },
+    "3020": {
+        "name": "博士眼镜"
+    },
+    "3021": {
+        "name": "IWODE"
+    },
+    "3022": {
+        "name": "DELSEY"
+    },
+    "3023": {
+        "name": "esons"
+    },
+    "3024": {
+        "name": "SCHIESSER"
+    },
+    "3025": {
+        "name": "LAMY"
+    },
+    "3026": {
+        "name": "hotwind热风"
+    },
+    "3027": {
+        "name": "Columbia"
+    },
+    "3028": {
+        "name": "Jeep"
+    },
+    "3029": {
+        "name": "THE NORTH FACE"
+    },
+    "3030": {
+        "name": "广州友谊商店"
+    },
+    "3031": {
+        "name": "大良小"
+    },
+    "3032": {
+        "name": "BENBO"
+    },
+    "3033": {
+        "name": "konzen"
+    },
+    "3034": {
+        "name": "DR.Beautek科妍美学塑型"
+    },
+    "3035": {
+        "name": "DILI"
+    },
+    "3036": {
+        "name": "New Beauty"
+    },
+    "3037": {
+        "name": "MINISO名创优品"
+    },
+    "3038": {
+        "name": "豚一拉面"
+    },
+    "3039": {
+        "name": "CalvinKlein"
+    },
+    "3040": {
+        "name": "TR"
+    },
+    "3041": {
+        "name": "许留山"
+    },
+    "3042": {
+        "name": "SKECHERS"
+    },
+    "3043": {
+        "name": "AJIDOU阿吉豆"
+    },
+    "3044": {
+        "name": "必胜客"
+    },
+    "3045": {
+        "name": "bacodes构"
+    },
+    "3046": {
+        "name": "晶彩"
+    },
+    "3047": {
+        "name": "adidas"
+    },
+    "3048": {
+        "name": "Jpower charmmis"
+    },
+    "3049": {
+        "name": "MILKCOW"
+    },
+    "3050": {
+        "name": "CR?Z!"
+    },
+    "3051": {
+        "name": "sheepet"
+    }
+}
